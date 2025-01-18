@@ -2,6 +2,6 @@
 *SA120=?
 @SA120=1
 1^
-sa120-001.MAT=SA120,SA120,SA120-001//v2,Flirt,PR,Polregio_Gorz闚_Wielkopolksi,11.10.2018,STADLER_Siedlce,Kamil_"CandyFox1516"_Paw這wski,Nikt
+sa120-001.MAT=SA120,SA120,SA120-001//v2,Flirt,PR,Polregio_Gorz闚_Wielkopolski,11.10.2018,STADLER_Siedlce,Kamil_"CandyFox1516"_Paw這wski,Nikt
 1^
-sa120-002.MAT=SA120,SA120,SA120-002//v2,Flirt,PR,Polregio_Gorz闚_Wielkopolksi,11.10.2018,STADLER_Siedlce,Kamil_"CandyFox1516"_Paw這wski,Nikt
+sa120-002.MAT=SA120,SA120,SA120-002//v2,Flirt,PR,Polregio_Gorz闚_Wielkopolski,11.10.2018,STADLER_Siedlce,Kamil_"CandyFox1516"_Paw這wski,Nikt
